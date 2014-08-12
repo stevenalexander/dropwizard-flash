@@ -13,7 +13,7 @@ public class ExampleApplication extends Application<ExampleConfiguration> {
 
     @Override
     public String getName() {
-        return "dropwizard-mustache-7.1";
+        return "dropwizard-flash";
     }
 
     @Override
